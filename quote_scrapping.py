@@ -34,28 +34,3 @@ for url in urls:
 df = pd.DataFrame()
 df['Authors'] = authors
 df['Quotes'] = quotes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
